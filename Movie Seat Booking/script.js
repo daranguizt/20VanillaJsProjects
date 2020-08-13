@@ -61,3 +61,5 @@ container.addEventListener("click", (e) => {
 populateUI();
 updateSelectedCount();
 saveMovieData(movieSelect.selectedIndex, parseInt(movieSelect.value));
+
+
